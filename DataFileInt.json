@@ -1,0 +1,41 @@
+{
+  //Account
+  "page": 1,
+  "pageSize": 1,
+
+  //Добавление нового УИО
+  "FullName": "FullNameCreatedByAutotest",
+  "ShortName": "ShortName",
+  "FirstName": null,
+  "SecondName": null,
+  "Patronymic": null,
+  "Code": "321",
+  "OGRN": "5170155130965",
+  "INN": "9057229659",
+  "BIC": null,
+  "RegNum": "123",
+  "IssuedCertificateNumber": null,
+  "InclusionDate": "2020-04-22T13:27:01.893Z",
+  "CreationDate": "2020-04-22T13:27:01.893Z",
+  "Email": null,
+  "Address": null,
+  "Phone": null,
+  "OrgLegalFormCode": 12200,
+  "PersonalAccountStatus": null,
+  "EnterpriseType": "0",
+  "AccountStatus": "0",
+  "OrgLegalFormName": "Акционерные общества",
+  "TerritorialInstituteName": "Административный отдел",
+
+  "RegistryTypes": {
+    "ExclusionDate": null
+  },
+
+  //Подключение к БД (стенд автотестов внутренний)
+  "DataSource": "test",
+  "Port": "test",
+  "InitialCatalog": "test",
+  "UserId": "test",
+  "Password": "test"
+
+}
